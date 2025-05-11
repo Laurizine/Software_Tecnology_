@@ -1,9 +1,106 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.3">
   <diagram name="Trang-1" id="u6ZCerIT7ntu2TBp4kxA">
-    <mxGraphModel>
+    <mxGraphModel dx="1227" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="W8Hm9E19Nx8TF-NTYwyH-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W8Hm9E19Nx8TF-NTYwyH-1" target="W8Hm9E19Nx8TF-NTYwyH-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="242" y="188" />
+              <mxPoint x="242" y="188" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W8Hm9E19Nx8TF-NTYwyH-1" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="142" y="148" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="W8Hm9E19Nx8TF-NTYwyH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W8Hm9E19Nx8TF-NTYwyH-2" target="W8Hm9E19Nx8TF-NTYwyH-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W8Hm9E19Nx8TF-NTYwyH-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W8Hm9E19Nx8TF-NTYwyH-2" target="W8Hm9E19Nx8TF-NTYwyH-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="392" y="198" />
+              <mxPoint x="392" y="328" />
+              <mxPoint x="162" y="328" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W8Hm9E19Nx8TF-NTYwyH-2" value="System" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="422" y="158" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W8Hm9E19Nx8TF-NTYwyH-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W8Hm9E19Nx8TF-NTYwyH-3" target="W8Hm9E19Nx8TF-NTYwyH-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="632" y="418" />
+              <mxPoint x="632" y="198" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W8Hm9E19Nx8TF-NTYwyH-3" value="Database" style="shape=cylinder;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="422" y="378" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W8Hm9E19Nx8TF-NTYwyH-6" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="207" y="166" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W8Hm9E19Nx8TF-NTYwyH-7" value="Gửi yêu cầu thêm xóa sửa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="222" y="166" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W8Hm9E19Nx8TF-NTYwyH-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.367;entryY=0.053;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="W8Hm9E19Nx8TF-NTYwyH-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="252" y="168" as="sourcePoint" />
+            <mxPoint x="302" y="118" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W8Hm9E19Nx8TF-NTYwyH-10" value="2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="487" y="246" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W8Hm9E19Nx8TF-NTYwyH-11" value="Update dữ liệu&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="482" y="298" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W8Hm9E19Nx8TF-NTYwyH-13" value="3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="537" y="386" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W8Hm9E19Nx8TF-NTYwyH-14" value="Xác nhận thành công" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="592" y="298" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W8Hm9E19Nx8TF-NTYwyH-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="678" y="338" as="sourcePoint" />
+            <mxPoint x="678" y="268" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W8Hm9E19Nx8TF-NTYwyH-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="562" y="427" as="sourcePoint" />
+            <mxPoint x="602" y="427" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W8Hm9E19Nx8TF-NTYwyH-18" value="4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="397" y="196" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W8Hm9E19Nx8TF-NTYwyH-19" value="Thông báo kết quả" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="192" y="298" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W8Hm9E19Nx8TF-NTYwyH-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="472" y="282" as="sourcePoint" />
+            <mxPoint x="472" y="322" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W8Hm9E19Nx8TF-NTYwyH-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="382" y="248" as="sourcePoint" />
+            <mxPoint x="382" y="288" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W8Hm9E19Nx8TF-NTYwyH-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.177;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="W8Hm9E19Nx8TF-NTYwyH-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="272" y="298" as="sourcePoint" />
+            <mxPoint x="322" y="248" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
