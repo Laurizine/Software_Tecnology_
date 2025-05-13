@@ -35,7 +35,7 @@
         </mxCell>
         <mxCell id="jKqrhuAryJAJv8CA12mN-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jKqrhuAryJAJv8CA12mN-8" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="400" as="targetPoint" />
+            <mxPoint x="400" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jKqrhuAryJAJv8CA12mN-8" value="Developer Team" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
